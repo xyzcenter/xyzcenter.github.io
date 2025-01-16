@@ -14,3 +14,6 @@ sudo systemctl status postgresql-12.service
 데이터베이스 서비스 재시작 (Postgres SQL version 12)
 
 sudo systemctl restart postgresql-12.service 
+
+
+이동윤 환영한다. 
